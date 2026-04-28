@@ -75,6 +75,7 @@ FUTURE_FS_02/
 -  Analytics dashboard
 -  Dark/Light mode toggle
 -  Responsive design improvements
+-  Deployment
 
 ---
 
