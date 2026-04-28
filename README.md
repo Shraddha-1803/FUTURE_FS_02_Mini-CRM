@@ -36,7 +36,7 @@ A full-stack Customer Relationship Management (CRM) application built using the 
 ## 📂 Project Structure
 
 ```
-FUTURE_FS_02/
+Mini-CRM/
 │
 ├── backend/
 │ ├── server.js
